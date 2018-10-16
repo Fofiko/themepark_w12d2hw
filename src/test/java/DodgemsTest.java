@@ -13,7 +13,7 @@ public class DodgemsTest {
 
     @Before
     public void before(){
-        dodgems = new Dodgems("crash");
+        dodgems = new Dodgems("crash", 4);
         visitor1 = new Visitor(1, 9, 1.00, 0.00);
         visitor2 = new Visitor(1, 13, 1.00, 0.00);
     }
@@ -33,5 +33,8 @@ public class DodgemsTest {
         assertEquals(4.50, dodgems.priceFor(visitor2), 0.01);
     }
 
-
+    @Test
+    public void hasRating(){
+        assertEquals(4, dodgems.getRating());
+    }
 }

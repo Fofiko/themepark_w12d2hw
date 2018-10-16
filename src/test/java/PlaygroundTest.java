@@ -12,7 +12,7 @@ public class PlaygroundTest {
 
     @Before
     public void before(){
-        playground = new Playground("swings");
+        playground = new Playground("swings", 4);
         visitor = new Visitor(1, 14, 1.75, 50.50);
     }
 
@@ -24,5 +24,10 @@ public class PlaygroundTest {
     @Test
     public void checkSecurity(){
         assertEquals(true, playground.isAllowedTo(visitor));
+    }
+
+    @Test
+    public void hasRating(){
+        assertEquals(4, playground.getRating());
     }
 }

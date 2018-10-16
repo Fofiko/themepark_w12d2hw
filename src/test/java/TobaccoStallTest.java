@@ -13,7 +13,7 @@ public class TobaccoStallTest {
     @Before
     public void before(){
 
-        tobaccoStall = new TobaccoStall("TobaccoLand", "Toni", 3);
+        tobaccoStall = new TobaccoStall("TobaccoLand", "Toni", 3, 4);
         visitor = new Visitor(1, 14, 1.75, 50.50);
     }
 
@@ -40,6 +40,16 @@ public class TobaccoStallTest {
     @Test
     public void hasDefaultPrice() {
         assertEquals(6.60, tobaccoStall.defaultPrice(), 0.01);
+    }
+
+    @Test
+    public void hasSameDefaultPriceForEveyone() {
+        assertEquals(6.60, tobaccoStall.priceFor(visitor), 0.01);
+    }
+
+    @Test
+    public void hasRating(){
+        assertEquals(4, tobaccoStall.getRating());
     }
 }
 

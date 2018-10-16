@@ -49,4 +49,19 @@ public class ThemePark {
     public String visit(Visitor visitor, Attraction attraction){
         return visitor.getId() + " has visited " + attraction.getName();
     }
+
+    public ArrayList<IReviewed> getAllReviewed() {
+        ArrayList<IReviewed> reviewedLocations = new ArrayList<>();
+        for (Attraction attraction : attractions){
+            if (attraction instanceof IReviewed) {
+                reviewedLocations.add(attraction);
+            }
+        }
+        for (IReviewed stall : this.stalls) {
+            if (stall instanceof IReviewed) {
+                reviewedLocations.add(stall);
+            }
+        }
+        return reviewedLocations;
+    }
 }

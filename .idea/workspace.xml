@@ -2,39 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89e9ac9a-3b7a-4d14-a515-65b6f8bd263d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ThemePark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/attractions/Attraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/attractions/Dodgems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/attractions/Park.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/attractions/Playground.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/attractions/Rollercoaster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stalls/CandyflossStall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stalls/IcecreamStall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stalls/Stall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/stalls/TobaccoStall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/themepark/attractions/Attraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/themepark/attractions/Attraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/themepark/stalls/CandyflossStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/themepark/stalls/CandyflossStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/themepark/stalls/IcecreamStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/themepark/stalls/IcecreamStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/themepark/stalls/Stall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/themepark/stalls/Stall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/themepark/stalls/TobaccoStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/themepark/stalls/TobaccoStall.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/CandyflossStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/CandyflossStallTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/DodgemsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/DodgemsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/IcecreamStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/IcecreamStallTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ParkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/PlaygroundTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/PlaygroundTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/RollercoasterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RollercoasterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ThemeParkTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/TobaccoStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/TobaccoStallTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/VisitorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/VisitorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/ThemePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Rollercoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/IcecreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CandyflossStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CandyflossStallTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/DodgemsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DodgemsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/IcecreamStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IcecreamStallTest.java" afterDir="false" />
@@ -43,7 +29,6 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VisitorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VisitorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -64,46 +49,61 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="CandyflossStall.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java">
+          <file leaf-file-name="ThemePark.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/ThemePark.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="20" selection-start-line="20" selection-end-line="20" />
+                <state relative-caret-position="461">
+                  <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
                   <folding>
-                    <element signature="e#239#240#0" expanded="true" />
-                    <element signature="e#266#267#0" expanded="true" />
-                    <element signature="e#313#314#0" expanded="true" />
-                    <element signature="e#350#351#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="IcecreamStall.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java">
+          <file leaf-file-name="Attraction.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="16" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#239#240#0" expanded="true" />
-                    <element signature="e#266#267#0" expanded="true" />
-                    <element signature="e#317#318#0" expanded="true" />
-                    <element signature="e#354#355#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="315">
+                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TobaccoStall.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java">
+          <file leaf-file-name="Stall.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="14" selection-start-line="14" selection-end-line="20" selection-end-column="5" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="IReviewed.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/IReviewed.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Dodgems.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ThemeParkTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="199">
+                  <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
                   <folding>
-                    <element signature="e#350#351#0" expanded="true" />
-                    <element signature="e#377#378#0" expanded="true" />
-                    <element signature="e#438#439#0" expanded="true" />
-                    <element signature="e#475#476#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -113,14 +113,13 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="CandyflossStallTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/CandyflossStallTest.java">
+          <file leaf-file-name="ThemeParkTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="33" selection-start-line="33" selection-end-line="33" />
+                <state relative-caret-position="507">
+                  <caret line="39" selection-start-line="39" selection-end-line="39" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#705#706#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -440,12 +439,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Attraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rollercoaster.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ParkTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/Stall.java" />
         <option value="$PROJECT_DIR$/src/test/java/StallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/IcecreamStall.java" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/IcecreamStallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/stallTests/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/themeparkTests/ThemeParkTest.java" />
@@ -453,23 +450,28 @@
         <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisitorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/themepark/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/themepark/ITicketed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/Playground.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/ThemePark.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParkTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CandyflossStallTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/IcecreamStallTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/themepark/ThemePark.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
       </list>
     </option>
   </component>
@@ -578,17 +580,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TobaccoStallTest.hasDefaultPrice">
+  <component name="RunManager" selected="JUnit.ThemeParkTest.canGetAllReviewed">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CandyflossStallTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in ThemePark_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemePark_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CandyflossStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CandyflossStallTest" />
-      <option name="METHOD_NAME" value="hasDefaultPrice" />
+      <option name="METHOD_NAME" value="hasRating" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -599,13 +618,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DodgemsTest.checkPriceForOlderVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParkTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DodgemsTest" />
-      <option name="METHOD_NAME" value="checkPriceForOlderVisitor" />
+      <option name="MAIN_CLASS_NAME" value="ParkTest" />
+      <option name="METHOD_NAME" value="hasRating" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -616,13 +635,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DodgemsTest.checkPriceForYoungerVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeParkTest.canGetAllReviewed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DodgemsTest" />
-      <option name="METHOD_NAME" value="checkPriceForYoungerVisitor" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetAllReviewed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -633,30 +652,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IcecreamStallTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemePark_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IcecreamStallTest" />
-      <option name="METHOD_NAME" value="hasDefaultPrice" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TobaccoStallTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TobaccoStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TobaccoStallTest" />
-      <option name="METHOD_NAME" value="hasDefaultPrice" />
+      <option name="METHOD_NAME" value="hasRating" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -706,19 +708,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DodgemsTest.checkPriceForYoungerVisitor" />
-      <item itemvalue="JUnit.DodgemsTest.checkPriceForOlderVisitor" />
-      <item itemvalue="JUnit.CandyflossStallTest.hasDefaultPrice" />
-      <item itemvalue="JUnit.IcecreamStallTest.hasDefaultPrice" />
-      <item itemvalue="JUnit.TobaccoStallTest.hasDefaultPrice" />
+      <item itemvalue="JUnit.All in ThemePark_test" />
+      <item itemvalue="JUnit.TobaccoStallTest.hasRating" />
+      <item itemvalue="JUnit.ParkTest.hasRating" />
+      <item itemvalue="JUnit.CandyflossStallTest.hasRating" />
+      <item itemvalue="JUnit.ThemeParkTest.canGetAllReviewed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TobaccoStallTest.hasDefaultPrice" />
-        <item itemvalue="JUnit.IcecreamStallTest.hasDefaultPrice" />
-        <item itemvalue="JUnit.CandyflossStallTest.hasDefaultPrice" />
-        <item itemvalue="JUnit.DodgemsTest.checkPriceForOlderVisitor" />
-        <item itemvalue="JUnit.DodgemsTest.checkPriceForYoungerVisitor" />
+        <item itemvalue="JUnit.ThemeParkTest.canGetAllReviewed" />
+        <item itemvalue="JUnit.CandyflossStallTest.hasRating" />
+        <item itemvalue="JUnit.All in ThemePark_test" />
+        <item itemvalue="JUnit.ParkTest.hasRating" />
+        <item itemvalue="JUnit.TobaccoStallTest.hasRating" />
       </list>
     </recent_temporary>
   </component>
@@ -736,35 +738,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ThemePark_test - 2018.10.16 at 18h 13m 53s.xml">
+    <history-entry file="CandyflossStallTest_hasDefaultPrice - 2018.10.16 at 21h 58m 01s.xml">
+      <configuration name="CandyflossStallTest.hasDefaultPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IcecreamStallTest_hasDefaultPrice - 2018.10.16 at 21h 58m 29s.xml">
+      <configuration name="IcecreamStallTest.hasDefaultPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TobaccoStallTest_hasDefaultPrice - 2018.10.16 at 21h 59m 00s.xml">
+      <configuration name="TobaccoStallTest.hasDefaultPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CandyflossStallTest_hasSameDefaultPriceForEveyone - 2018.10.16 at 22h 09m 41s.xml">
+      <configuration name="CandyflossStallTest.hasSameDefaultPriceForEveyone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IcecreamStallTest_hasSameDefaultPriceForEveyone - 2018.10.16 at 22h 10m 44s.xml">
+      <configuration name="IcecreamStallTest.hasSameDefaultPriceForEveyone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ThemePark_test - 2018.10.16 at 22h 11m 35s.xml">
       <configuration name="All in ThemePark_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlaygroundTest_checkSecurity - 2018.10.16 at 18h 29m 35s.xml">
-      <configuration name="PlaygroundTest.checkSecurity" configurationId="JUnit" />
+    <history-entry file="TobaccoStallTest_hasRating - 2018.10.16 at 22h 12m 42s.xml">
+      <configuration name="TobaccoStallTest.hasRating" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlaygroundTest_checkSecurity - 2018.10.16 at 18h 29m 49s.xml">
-      <configuration name="PlaygroundTest.checkSecurity" configurationId="JUnit" />
+    <history-entry file="ParkTest_hasRating - 2018.10.16 at 22h 13m 35s.xml">
+      <configuration name="ParkTest.hasRating" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlaygroundTest_checkSecurity - 2018.10.16 at 18h 30m 14s.xml">
-      <configuration name="PlaygroundTest.checkSecurity" configurationId="JUnit" />
+    <history-entry file="All_in_ThemePark_test - 2018.10.16 at 22h 16m 40s.xml">
+      <configuration name="All in ThemePark_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TobaccoStallTest_checkSecurity - 2018.10.16 at 18h 32m 42s.xml">
-      <configuration name="TobaccoStallTest.checkSecurity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_checkSecurity - 2018.10.16 at 18h 36m 30s.xml">
-      <configuration name="RollercoasterTest.checkSecurity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_checkPriceForTallVisitor - 2018.10.16 at 21h 44m 56s.xml">
-      <configuration name="RollercoasterTest.checkPriceForTallVisitor" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_checkPriceForShortVisitor - 2018.10.16 at 21h 45m 50s.xml">
-      <configuration name="RollercoasterTest.checkPriceForShortVisitor" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DodgemsTest_checkPriceForYoungerVisitor - 2018.10.16 at 21h 51m 08s.xml">
-      <configuration name="DodgemsTest.checkPriceForYoungerVisitor" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DodgemsTest_checkPriceForOlderVisitor - 2018.10.16 at 21h 51m 11s.xml">
-      <configuration name="DodgemsTest.checkPriceForOlderVisitor" configurationId="JUnit" />
+    <history-entry file="CandyflossStallTest_hasRating - 2018.10.16 at 22h 17m 30s.xml">
+      <configuration name="CandyflossStallTest.hasRating" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -779,12 +781,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23757575" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23757575" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17310444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1044,57 +1046,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stallTests.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/themeparkTests.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/StallTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IcecreamStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ParkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1112,65 +1069,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/IReviewed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/ThemePark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="49" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1182,116 +1086,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="40" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Park.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Rollercoaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Playground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AttractionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CandyflossStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" selection-start-line="43" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="49" selection-start-line="49" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="390">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/IcecreamStall.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/IcecreamStallTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" selection-start-line="14" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/CandyflossStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CandyflossStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="525">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DodgemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/stalls/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/IReviewed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/attractions/Attraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/themepark/ThemePark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
