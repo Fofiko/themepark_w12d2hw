@@ -1,13 +1,24 @@
 public class Visitor {
 
+    private int id;
     private int age;
     private double height;
     private double money;
 
-    public Visitor(int age, double height, double money){
+    public Visitor(int id, int age, double height, double money){
+        this.id = id;
         this.age = age;
         this.height = height;
         this.money = money;
+    }
+
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public int getAge() {
