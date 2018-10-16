@@ -1,3 +1,5 @@
+package themepark;
+
 public class Visitor {
 
     private int id;

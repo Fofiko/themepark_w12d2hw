@@ -1,4 +1,4 @@
-package stalls;
+package themepark.stalls;
 
 public abstract class Stall {
 

@@ -1,6 +1,7 @@
-import attractions.*;
-import org.w3c.dom.Attr;
-import stalls.Stall;
+package themepark;
+
+import themepark.attractions.Attraction;
+import themepark.stalls.Stall;
 
 import java.util.ArrayList;
 

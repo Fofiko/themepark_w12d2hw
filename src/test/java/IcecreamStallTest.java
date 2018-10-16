@@ -1,6 +1,6 @@
 import org.junit.Before;
 import org.junit.Test;
-import stalls.IcecreamStall;
+import themepark.stalls.IcecreamStall;
 
 import static org.junit.Assert.assertEquals;
 
@@ -26,5 +26,10 @@ public class IcecreamStallTest {
     @Test
     public void hasParkingSpot(){
         assertEquals(1, icecreamStall.getParkingSpot());
+    }
+
+    @Test
+    public void hasDefaultPrice() {
+        assertEquals(2.80, icecreamStall.defaultPrice(), 0.01);
     }
 }

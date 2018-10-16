@@ -1,4 +1,6 @@
-import attractions.Rollercoaster;
+import themepark.ThemePark;
+import themepark.Visitor;
+import themepark.attractions.Rollercoaster;
 import org.junit.Test;
 import org.junit.Before;
 
