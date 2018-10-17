@@ -64,4 +64,48 @@ public class ThemePark {
         }
         return reviewedLocations;
     }
+
+
+    public String getAllReviews() {
+        StringBuilder allReviews = new StringBuilder();
+
+        for (Attraction attraction : attractions){
+            if (attraction instanceof IReviewed) {
+                String text1 = attraction.getName() + ": " + attraction.getRating();
+                allReviews.append(text1 + ", ");
+            }
+        }
+        for (IReviewed stall : this.stalls) {
+            if (stall instanceof IReviewed) {
+                String text2 = stall.getName() + ": " + stall.getRating();
+                allReviews.append(text2 + ", ");
+            }
+        }
+        return allReviews.toString();
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+//    //CHECK BRIEF
+////    public ArrayList<ITicketed> getAllAllowedFor(Visitor visitor) {
+////        ArrayList<ITicketed> allowedLocations = new ArrayList<>();
+////
+////
+////        return allowedLocations;
+////    }
+
+
+
+
+
+
 }

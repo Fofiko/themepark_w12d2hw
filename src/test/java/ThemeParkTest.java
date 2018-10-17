@@ -46,4 +46,11 @@ public class ThemeParkTest {
         assertEquals(2, themePark.getAllReviewed().size());
     }
 
+    @Test
+    public void canSeeAllReviews(){
+        themePark.addAttraction(rollercoaster);
+        themePark.addStall(candyflossStall);
+        assertEquals("roller: 4, CandyLand: 4, ", themePark.getAllReviews());
+    }
+
 }

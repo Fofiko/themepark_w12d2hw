@@ -10,7 +10,7 @@ public abstract class Attraction implements IReviewed {
     public Attraction(String name, int rating){
 
         this.name = name;
-        this.rating = 0;
+        this.rating = rating;
     }
 
     public String getName() {
